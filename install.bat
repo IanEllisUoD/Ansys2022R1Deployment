@@ -1,0 +1,1 @@
+.\setup.exe -silent -licserverinfo #please input your relevant license server information here
